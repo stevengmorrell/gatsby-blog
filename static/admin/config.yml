@@ -1,5 +1,5 @@
 backend:
-  name: stevengmorrell
+  name: github
   repo: stevengmorrell/gatsby-blog
 
 media_folder: static/assets
