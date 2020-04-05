@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Gatsby Starter Personal Blog`,
-    author: `Steven Morrell`,
+    title: `I am Steven G Morrell`,
+    author: `Steven G Morrell`,
     description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
     siteUrl: `https://stevengmorrell.com/`,
     social: {
