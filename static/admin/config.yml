@@ -1,6 +1,6 @@
 backend:
-  +  name: stevengmorrell
-  +  repo: stevengmorrell/gatsby-blog
+  name: stevengmorrell
+  repo: stevengmorrell/gatsby-blog
 
 media_folder: static/assets
 public_folder: assets
